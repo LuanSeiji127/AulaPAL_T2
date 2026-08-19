@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\bin\Debug\net10.0\ForSoma10.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\bin\Debug\net10.0\ForSoma10.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\bin\Debug\net10.0\ForSoma10.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\bin\Debug\net10.0\ForSoma10.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\bin\Debug\net10.0\ForSoma10.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\obj\Debug\net10.0\ForSoma10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\obj\Debug\net10.0\ForSoma10.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\obj\Debug\net10.0\ForSoma10.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\obj\Debug\net10.0\ForSoma10.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\obj\Debug\net10.0\ForSoma10.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\obj\Debug\net10.0\refint\ForSoma10.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\obj\Debug\net10.0\ForSoma10.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\obj\Debug\net10.0\ForSoma10.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForSoma10\ForSoma10\obj\Debug\net10.0\ref\ForSoma10.dll

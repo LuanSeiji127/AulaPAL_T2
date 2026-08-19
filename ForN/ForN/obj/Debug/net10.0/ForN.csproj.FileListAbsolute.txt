@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\bin\Debug\net10.0\ForN.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\bin\Debug\net10.0\ForN.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\bin\Debug\net10.0\ForN.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\bin\Debug\net10.0\ForN.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\bin\Debug\net10.0\ForN.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\obj\Debug\net10.0\ForN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\obj\Debug\net10.0\ForN.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\obj\Debug\net10.0\ForN.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\obj\Debug\net10.0\ForN.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\obj\Debug\net10.0\ForN.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\obj\Debug\net10.0\refint\ForN.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\obj\Debug\net10.0\ForN.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\obj\Debug\net10.0\ForN.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ForN\ForN\obj\Debug\net10.0\ref\ForN.dll

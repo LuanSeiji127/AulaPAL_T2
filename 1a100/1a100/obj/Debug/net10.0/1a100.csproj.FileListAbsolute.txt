@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\bin\Debug\net10.0\1a100.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\bin\Debug\net10.0\1a100.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\bin\Debug\net10.0\1a100.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\bin\Debug\net10.0\1a100.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\bin\Debug\net10.0\1a100.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\obj\Debug\net10.0\1a100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\obj\Debug\net10.0\1a100.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\obj\Debug\net10.0\1a100.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\obj\Debug\net10.0\1a100.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\obj\Debug\net10.0\1a100.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\obj\Debug\net10.0\refint\1a100.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\obj\Debug\net10.0\1a100.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\obj\Debug\net10.0\1a100.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\1a100\1a100\obj\Debug\net10.0\ref\1a100.dll

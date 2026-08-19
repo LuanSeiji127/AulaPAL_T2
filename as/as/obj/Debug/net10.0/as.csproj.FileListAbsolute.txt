@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\bin\Debug\net10.0\as.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\bin\Debug\net10.0\as.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\bin\Debug\net10.0\as.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\bin\Debug\net10.0\as.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\bin\Debug\net10.0\as.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\obj\Debug\net10.0\as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\obj\Debug\net10.0\as.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\obj\Debug\net10.0\as.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\obj\Debug\net10.0\as.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\obj\Debug\net10.0\as.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\obj\Debug\net10.0\refint\as.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\obj\Debug\net10.0\as.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\obj\Debug\net10.0\as.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\as\as\obj\Debug\net10.0\ref\as.dll

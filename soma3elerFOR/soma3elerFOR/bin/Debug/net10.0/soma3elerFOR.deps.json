@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "soma3elerFOR/1.0.0": {
+        "runtime": {
+          "soma3elerFOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "soma3elerFOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\bin\Debug\net10.0\ler10for.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\bin\Debug\net10.0\ler10for.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\bin\Debug\net10.0\ler10for.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\bin\Debug\net10.0\ler10for.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\bin\Debug\net10.0\ler10for.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\obj\Debug\net10.0\ler10for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\obj\Debug\net10.0\ler10for.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\obj\Debug\net10.0\ler10for.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\obj\Debug\net10.0\ler10for.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\obj\Debug\net10.0\ler10for.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\obj\Debug\net10.0\refint\ler10for.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\obj\Debug\net10.0\ler10for.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\obj\Debug\net10.0\ler10for.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\ler10for\ler10for\obj\Debug\net10.0\ref\ler10for.dll

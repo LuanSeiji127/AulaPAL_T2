@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\bin\Debug\net10.0\soma3elerFOR.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\bin\Debug\net10.0\soma3elerFOR.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\bin\Debug\net10.0\soma3elerFOR.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\bin\Debug\net10.0\soma3elerFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\bin\Debug\net10.0\soma3elerFOR.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\obj\Debug\net10.0\soma3elerFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\obj\Debug\net10.0\soma3elerFOR.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\obj\Debug\net10.0\soma3elerFOR.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\obj\Debug\net10.0\soma3elerFOR.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\obj\Debug\net10.0\soma3elerFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\obj\Debug\net10.0\refint\soma3elerFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\obj\Debug\net10.0\soma3elerFOR.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\obj\Debug\net10.0\soma3elerFOR.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\soma3elerFOR\soma3elerFOR\obj\Debug\net10.0\ref\soma3elerFOR.dll

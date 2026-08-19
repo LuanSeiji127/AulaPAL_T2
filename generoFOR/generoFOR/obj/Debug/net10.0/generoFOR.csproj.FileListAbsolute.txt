@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\bin\Debug\net10.0\generoFOR.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\bin\Debug\net10.0\generoFOR.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\bin\Debug\net10.0\generoFOR.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\bin\Debug\net10.0\generoFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\bin\Debug\net10.0\generoFOR.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\obj\Debug\net10.0\generoFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\obj\Debug\net10.0\generoFOR.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\obj\Debug\net10.0\generoFOR.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\obj\Debug\net10.0\generoFOR.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\obj\Debug\net10.0\generoFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\obj\Debug\net10.0\refint\generoFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\obj\Debug\net10.0\generoFOR.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\obj\Debug\net10.0\generoFOR.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\generoFOR\generoFOR\obj\Debug\net10.0\ref\generoFOR.dll

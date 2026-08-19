@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\bin\Debug\net10.0\metadeForNunmero.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\bin\Debug\net10.0\metadeForNunmero.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\bin\Debug\net10.0\metadeForNunmero.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\bin\Debug\net10.0\metadeForNunmero.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\bin\Debug\net10.0\metadeForNunmero.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\obj\Debug\net10.0\metadeForNunmero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\obj\Debug\net10.0\metadeForNunmero.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\obj\Debug\net10.0\metadeForNunmero.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\obj\Debug\net10.0\metadeForNunmero.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\obj\Debug\net10.0\metadeForNunmero.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\obj\Debug\net10.0\refint\metadeForNunmero.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\obj\Debug\net10.0\metadeForNunmero.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\obj\Debug\net10.0\metadeForNunmero.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\metadeForNunmero\metadeForNunmero\obj\Debug\net10.0\ref\metadeForNunmero.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\bin\Debug\net10.0\Exemplo2For.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\bin\Debug\net10.0\Exemplo2For.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\bin\Debug\net10.0\Exemplo2For.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\bin\Debug\net10.0\Exemplo2For.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\bin\Debug\net10.0\Exemplo2For.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\obj\Debug\net10.0\Exemplo2For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\obj\Debug\net10.0\Exemplo2For.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\obj\Debug\net10.0\Exemplo2For.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\obj\Debug\net10.0\Exemplo2For.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\obj\Debug\net10.0\Exemplo2For.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\obj\Debug\net10.0\refint\Exemplo2For.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\obj\Debug\net10.0\Exemplo2For.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\obj\Debug\net10.0\Exemplo2For.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\Exemplo2For\Exemplo2For\obj\Debug\net10.0\ref\Exemplo2For.dll

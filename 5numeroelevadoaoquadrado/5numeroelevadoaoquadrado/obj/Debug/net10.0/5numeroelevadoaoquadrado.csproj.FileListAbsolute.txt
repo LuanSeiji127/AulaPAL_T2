@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\bin\Debug\net10.0\5numeroelevadoaoquadrado.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\bin\Debug\net10.0\5numeroelevadoaoquadrado.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\bin\Debug\net10.0\5numeroelevadoaoquadrado.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\bin\Debug\net10.0\5numeroelevadoaoquadrado.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\bin\Debug\net10.0\5numeroelevadoaoquadrado.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\obj\Debug\net10.0\5numeroelevadoaoquadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\obj\Debug\net10.0\5numeroelevadoaoquadrado.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\obj\Debug\net10.0\5numeroelevadoaoquadrado.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\obj\Debug\net10.0\5numeroelevadoaoquadrado.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\obj\Debug\net10.0\5numeroelevadoaoquadrado.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\obj\Debug\net10.0\refint\5numeroelevadoaoquadrado.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\obj\Debug\net10.0\5numeroelevadoaoquadrado.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\obj\Debug\net10.0\5numeroelevadoaoquadrado.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\5numeroelevadoaoquadrado\5numeroelevadoaoquadrado\obj\Debug\net10.0\ref\5numeroelevadoaoquadrado.dll
