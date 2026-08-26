@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\bin\Debug\net10.0\WhileLer3Valores.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\bin\Debug\net10.0\WhileLer3Valores.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\bin\Debug\net10.0\WhileLer3Valores.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\bin\Debug\net10.0\WhileLer3Valores.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\bin\Debug\net10.0\WhileLer3Valores.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\obj\Debug\net10.0\WhileLer3Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\obj\Debug\net10.0\WhileLer3Valores.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\obj\Debug\net10.0\WhileLer3Valores.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\obj\Debug\net10.0\WhileLer3Valores.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\obj\Debug\net10.0\WhileLer3Valores.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\obj\Debug\net10.0\refint\WhileLer3Valores.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\obj\Debug\net10.0\WhileLer3Valores.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\obj\Debug\net10.0\WhileLer3Valores.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL PROF LUIZ\WhileLer3Valores\WhileLer3Valores\obj\Debug\net10.0\ref\WhileLer3Valores.dll
