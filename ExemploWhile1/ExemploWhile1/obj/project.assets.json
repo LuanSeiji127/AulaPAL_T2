@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\ExemploWhile1\\ExemploWhile1\\ExemploWhile1.csproj",
+      "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\ExemploWhile1\\ExemploWhile1\\ExemploWhile1.csproj",
       "projectName": "ExemploWhile1",
-      "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\ExemploWhile1\\ExemploWhile1\\ExemploWhile1.csproj",
+      "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\ExemploWhile1\\ExemploWhile1\\ExemploWhile1.csproj",
       "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\ExemploWhile1\\ExemploWhile1\\obj\\",
+      "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\ExemploWhile1\\ExemploWhile1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

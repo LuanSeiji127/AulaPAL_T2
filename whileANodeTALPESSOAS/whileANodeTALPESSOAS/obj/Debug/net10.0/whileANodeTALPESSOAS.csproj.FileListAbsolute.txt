@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\bin\Debug\net10.0\whileANodeTALPESSOAS.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\bin\Debug\net10.0\whileANodeTALPESSOAS.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\bin\Debug\net10.0\whileANodeTALPESSOAS.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\bin\Debug\net10.0\whileANodeTALPESSOAS.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\bin\Debug\net10.0\whileANodeTALPESSOAS.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\obj\Debug\net10.0\whileANodeTALPESSOAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\obj\Debug\net10.0\whileANodeTALPESSOAS.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\obj\Debug\net10.0\whileANodeTALPESSOAS.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\obj\Debug\net10.0\whileANodeTALPESSOAS.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\obj\Debug\net10.0\whileANodeTALPESSOAS.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\obj\Debug\net10.0\whileANodeTALPESSOAS.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\obj\Debug\net10.0\refint\whileANodeTALPESSOAS.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\obj\Debug\net10.0\whileANodeTALPESSOAS.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\obj\Debug\net10.0\whileANodeTALPESSOAS.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileANodeTALPESSOAS\whileANodeTALPESSOAS\obj\Debug\net10.0\ref\whileANodeTALPESSOAS.dll

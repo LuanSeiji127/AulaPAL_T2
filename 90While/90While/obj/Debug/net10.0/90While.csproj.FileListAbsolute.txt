@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\bin\Debug\net10.0\90While.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\bin\Debug\net10.0\90While.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\bin\Debug\net10.0\90While.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\bin\Debug\net10.0\90While.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\bin\Debug\net10.0\90While.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\obj\Debug\net10.0\90While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\obj\Debug\net10.0\90While.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\obj\Debug\net10.0\90While.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\obj\Debug\net10.0\90While.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\obj\Debug\net10.0\90While.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\obj\Debug\net10.0\90While.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\obj\Debug\net10.0\refint\90While.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\obj\Debug\net10.0\90While.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\obj\Debug\net10.0\90While.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\90While\90While\obj\Debug\net10.0\ref\90While.dll

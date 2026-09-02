@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\bin\Debug\net10.0\SomaWhile5Numeros.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\bin\Debug\net10.0\SomaWhile5Numeros.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\bin\Debug\net10.0\SomaWhile5Numeros.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\bin\Debug\net10.0\SomaWhile5Numeros.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\bin\Debug\net10.0\SomaWhile5Numeros.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\obj\Debug\net10.0\SomaWhile5Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\obj\Debug\net10.0\SomaWhile5Numeros.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\obj\Debug\net10.0\SomaWhile5Numeros.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\obj\Debug\net10.0\SomaWhile5Numeros.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\obj\Debug\net10.0\SomaWhile5Numeros.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\obj\Debug\net10.0\SomaWhile5Numeros.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\obj\Debug\net10.0\refint\SomaWhile5Numeros.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\obj\Debug\net10.0\SomaWhile5Numeros.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\obj\Debug\net10.0\SomaWhile5Numeros.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\SomaWhile5Numeros\SomaWhile5Numeros\obj\Debug\net10.0\ref\SomaWhile5Numeros.dll

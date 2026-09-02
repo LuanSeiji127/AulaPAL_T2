@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\bin\Debug\net10.0\whileDoboro.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\bin\Debug\net10.0\whileDoboro.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\bin\Debug\net10.0\whileDoboro.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\bin\Debug\net10.0\whileDoboro.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\bin\Debug\net10.0\whileDoboro.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\obj\Debug\net10.0\whileDoboro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\obj\Debug\net10.0\whileDoboro.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\obj\Debug\net10.0\whileDoboro.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\obj\Debug\net10.0\whileDoboro.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\obj\Debug\net10.0\whileDoboro.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\obj\Debug\net10.0\whileDoboro.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\obj\Debug\net10.0\refint\whileDoboro.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\obj\Debug\net10.0\whileDoboro.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\obj\Debug\net10.0\whileDoboro.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileDoboro\whileDoboro\obj\Debug\net10.0\ref\whileDoboro.dll

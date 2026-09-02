@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\ANO_WHILE\\ANO_WHILE\\ANO_WHILE.csproj": {}
+    "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\ANO_WHILE\\ANO_WHILE\\ANO_WHILE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\ANO_WHILE\\ANO_WHILE\\ANO_WHILE.csproj": {
+    "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\ANO_WHILE\\ANO_WHILE\\ANO_WHILE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\ANO_WHILE\\ANO_WHILE\\ANO_WHILE.csproj",
+        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\ANO_WHILE\\ANO_WHILE\\ANO_WHILE.csproj",
         "projectName": "ANO_WHILE",
-        "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\ANO_WHILE\\ANO_WHILE\\ANO_WHILE.csproj",
+        "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\ANO_WHILE\\ANO_WHILE\\ANO_WHILE.csproj",
         "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\ANO_WHILE\\ANO_WHILE\\obj\\",
+        "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\ANO_WHILE\\ANO_WHILE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

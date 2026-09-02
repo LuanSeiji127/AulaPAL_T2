@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\bin\Debug\net10.0\whileEmpresa.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\bin\Debug\net10.0\whileEmpresa.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\bin\Debug\net10.0\whileEmpresa.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\bin\Debug\net10.0\whileEmpresa.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\bin\Debug\net10.0\whileEmpresa.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\obj\Debug\net10.0\whileEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\obj\Debug\net10.0\whileEmpresa.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\obj\Debug\net10.0\whileEmpresa.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\obj\Debug\net10.0\whileEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\obj\Debug\net10.0\whileEmpresa.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\obj\Debug\net10.0\whileEmpresa.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\obj\Debug\net10.0\refint\whileEmpresa.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\obj\Debug\net10.0\whileEmpresa.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\obj\Debug\net10.0\whileEmpresa.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileEmpresa\whileEmpresa\obj\Debug\net10.0\ref\whileEmpresa.dll

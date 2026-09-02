@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\bin\Debug\net10.0\whileMulti63LEr.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\bin\Debug\net10.0\whileMulti63LEr.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\bin\Debug\net10.0\whileMulti63LEr.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\bin\Debug\net10.0\whileMulti63LEr.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\bin\Debug\net10.0\whileMulti63LEr.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\obj\Debug\net10.0\whileMulti63LEr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\obj\Debug\net10.0\whileMulti63LEr.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\obj\Debug\net10.0\whileMulti63LEr.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\obj\Debug\net10.0\whileMulti63LEr.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\obj\Debug\net10.0\whileMulti63LEr.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\obj\Debug\net10.0\whileMulti63LEr.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\obj\Debug\net10.0\refint\whileMulti63LEr.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\obj\Debug\net10.0\whileMulti63LEr.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\obj\Debug\net10.0\whileMulti63LEr.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\whileMulti63LEr\whileMulti63LEr\obj\Debug\net10.0\ref\whileMulti63LEr.dll

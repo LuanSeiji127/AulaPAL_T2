@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\WhileLer3Valores\\WhileLer3Valores\\WhileLer3Valores.csproj": {}
+    "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\WhileLer3Valores\\WhileLer3Valores\\WhileLer3Valores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\WhileLer3Valores\\WhileLer3Valores\\WhileLer3Valores.csproj": {
+    "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\WhileLer3Valores\\WhileLer3Valores\\WhileLer3Valores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\WhileLer3Valores\\WhileLer3Valores\\WhileLer3Valores.csproj",
+        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\WhileLer3Valores\\WhileLer3Valores\\WhileLer3Valores.csproj",
         "projectName": "WhileLer3Valores",
-        "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\WhileLer3Valores\\WhileLer3Valores\\WhileLer3Valores.csproj",
+        "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\WhileLer3Valores\\WhileLer3Valores\\WhileLer3Valores.csproj",
         "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL PROF LUIZ\\WhileLer3Valores\\WhileLer3Valores\\obj\\",
+        "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\WhileLer3Valores\\WhileLer3Valores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",
