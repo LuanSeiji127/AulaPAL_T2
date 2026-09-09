@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\tabuadaWhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC155F0-3824-49A2-A348-432A0BB1BCC4}|tabuadaWhile\\tabuadaWhile.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal prof luiz\\tabuadawhile\\tabuadawhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC155F0-3824-49A2-A348-432A0BB1BCC4}|tabuadaWhile\\tabuadaWhile.csproj|solutionrelative:tabuadawhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\tabuadaWhile\\tabuadaWhile\\Program.cs",
+              "RelativeDocumentMoniker": "tabuadaWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\tabuadaWhile\\tabuadaWhile\\Program.cs",
+              "RelativeToolTip": "tabuadaWhile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T19:16:19.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

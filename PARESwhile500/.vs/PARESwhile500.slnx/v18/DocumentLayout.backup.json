@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\PARESwhile500\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77A443B5-3284-4229-B03B-133626FB655F}|PARESwhile500\\PARESwhile500.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal prof luiz\\pareswhile500\\pareswhile500\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A443B5-3284-4229-B03B-133626FB655F}|PARESwhile500\\PARESwhile500.csproj|solutionrelative:pareswhile500\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\PARESwhile500\\PARESwhile500\\Program.cs",
+              "RelativeDocumentMoniker": "PARESwhile500\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\PARESwhile500\\PARESwhile500\\Program.cs*",
+              "RelativeToolTip": "PARESwhile500\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T19:12:57.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

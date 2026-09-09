@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\bin\Debug\net10.0\PARESwhile500.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\bin\Debug\net10.0\PARESwhile500.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\bin\Debug\net10.0\PARESwhile500.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\bin\Debug\net10.0\PARESwhile500.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\bin\Debug\net10.0\PARESwhile500.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\obj\Debug\net10.0\PARESwhile500.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\obj\Debug\net10.0\PARESwhile500.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\obj\Debug\net10.0\PARESwhile500.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\obj\Debug\net10.0\PARESwhile500.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\obj\Debug\net10.0\PARESwhile500.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\obj\Debug\net10.0\PARESwhile500.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\obj\Debug\net10.0\refint\PARESwhile500.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\obj\Debug\net10.0\PARESwhile500.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\obj\Debug\net10.0\PARESwhile500.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PARESwhile500\PARESwhile500\obj\Debug\net10.0\ref\PARESwhile500.dll

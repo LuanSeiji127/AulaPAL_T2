@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\bin\Debug\net10.0\numeroImpares500While.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\bin\Debug\net10.0\numeroImpares500While.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\bin\Debug\net10.0\numeroImpares500While.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\bin\Debug\net10.0\numeroImpares500While.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\bin\Debug\net10.0\numeroImpares500While.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\obj\Debug\net10.0\numeroImpares500While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\obj\Debug\net10.0\numeroImpares500While.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\obj\Debug\net10.0\numeroImpares500While.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\obj\Debug\net10.0\numeroImpares500While.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\obj\Debug\net10.0\numeroImpares500While.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\obj\Debug\net10.0\numeroImpares500While.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\obj\Debug\net10.0\refint\numeroImpares500While.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\obj\Debug\net10.0\numeroImpares500While.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\obj\Debug\net10.0\numeroImpares500While.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\numeroImpares500While\numeroImpares500While\obj\Debug\net10.0\ref\numeroImpares500While.dll

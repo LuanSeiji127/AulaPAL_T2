@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\bin\Debug\net10.0\pares15While.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\bin\Debug\net10.0\pares15While.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\bin\Debug\net10.0\pares15While.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\bin\Debug\net10.0\pares15While.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\bin\Debug\net10.0\pares15While.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\obj\Debug\net10.0\pares15While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\obj\Debug\net10.0\pares15While.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\obj\Debug\net10.0\pares15While.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\obj\Debug\net10.0\pares15While.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\obj\Debug\net10.0\pares15While.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\obj\Debug\net10.0\pares15While.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\obj\Debug\net10.0\refint\pares15While.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\obj\Debug\net10.0\pares15While.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\obj\Debug\net10.0\pares15While.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\pares15While\pares15While\obj\Debug\net10.0\ref\pares15While.dll

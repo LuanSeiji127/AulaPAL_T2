@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\bin\Debug\net10.0\3while9.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\bin\Debug\net10.0\3while9.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\bin\Debug\net10.0\3while9.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\bin\Debug\net10.0\3while9.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\bin\Debug\net10.0\3while9.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\obj\Debug\net10.0\3while9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\obj\Debug\net10.0\3while9.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\obj\Debug\net10.0\3while9.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\obj\Debug\net10.0\3while9.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\obj\Debug\net10.0\3while9.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\obj\Debug\net10.0\3while9.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\obj\Debug\net10.0\refint\3while9.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\obj\Debug\net10.0\3while9.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\obj\Debug\net10.0\3while9.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\3while9\3while9\obj\Debug\net10.0\ref\3while9.dll

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\bin\Debug\net10.0\7numWHile.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\bin\Debug\net10.0\7numWHile.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\bin\Debug\net10.0\7numWHile.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\bin\Debug\net10.0\7numWHile.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\bin\Debug\net10.0\7numWHile.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\obj\Debug\net10.0\7numWHile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\obj\Debug\net10.0\7numWHile.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\obj\Debug\net10.0\7numWHile.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\obj\Debug\net10.0\7numWHile.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\obj\Debug\net10.0\7numWHile.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\obj\Debug\net10.0\7numWHile.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\obj\Debug\net10.0\refint\7numWHile.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\obj\Debug\net10.0\7numWHile.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\obj\Debug\net10.0\7numWHile.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\7numWHile\7numWHile\obj\Debug\net10.0\ref\7numWHile.dll

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\obj\Debug\net10.0\200a450.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\obj\Debug\net10.0\200a450.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\obj\Debug\net10.0\200a450.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\obj\Debug\net10.0\200a450.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\obj\Debug\net10.0\200a450.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\bin\Debug\net10.0\200a450.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\bin\Debug\net10.0\200a450.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\bin\Debug\net10.0\200a450.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\bin\Debug\net10.0\200a450.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\bin\Debug\net10.0\200a450.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\obj\Debug\net10.0\200a450.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\obj\Debug\net10.0\refint\200a450.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\obj\Debug\net10.0\200a450.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\obj\Debug\net10.0\200a450.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\200a450\200a450\obj\Debug\net10.0\ref\200a450.dll

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\bin\Debug\net10.0\tabuadaWhile.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\bin\Debug\net10.0\tabuadaWhile.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\bin\Debug\net10.0\tabuadaWhile.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\bin\Debug\net10.0\tabuadaWhile.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\bin\Debug\net10.0\tabuadaWhile.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\obj\Debug\net10.0\tabuadaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\obj\Debug\net10.0\tabuadaWhile.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\obj\Debug\net10.0\tabuadaWhile.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\obj\Debug\net10.0\tabuadaWhile.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\obj\Debug\net10.0\tabuadaWhile.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\obj\Debug\net10.0\tabuadaWhile.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\obj\Debug\net10.0\refint\tabuadaWhile.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\obj\Debug\net10.0\tabuadaWhile.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\obj\Debug\net10.0\tabuadaWhile.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\tabuadaWhile\tabuadaWhile\obj\Debug\net10.0\ref\tabuadaWhile.dll

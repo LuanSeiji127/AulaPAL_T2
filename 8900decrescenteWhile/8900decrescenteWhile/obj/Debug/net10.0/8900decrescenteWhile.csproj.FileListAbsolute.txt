@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\bin\Debug\net10.0\8900decrescenteWhile.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\bin\Debug\net10.0\8900decrescenteWhile.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\bin\Debug\net10.0\8900decrescenteWhile.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\bin\Debug\net10.0\8900decrescenteWhile.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\bin\Debug\net10.0\8900decrescenteWhile.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\obj\Debug\net10.0\8900decrescenteWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\obj\Debug\net10.0\8900decrescenteWhile.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\obj\Debug\net10.0\8900decrescenteWhile.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\obj\Debug\net10.0\8900decrescenteWhile.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\obj\Debug\net10.0\8900decrescenteWhile.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\obj\Debug\net10.0\8900decrescenteWhile.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\obj\Debug\net10.0\refint\8900decrescenteWhile.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\obj\Debug\net10.0\8900decrescenteWhile.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\obj\Debug\net10.0\8900decrescenteWhile.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\8900decrescenteWhile\8900decrescenteWhile\obj\Debug\net10.0\ref\8900decrescenteWhile.dll

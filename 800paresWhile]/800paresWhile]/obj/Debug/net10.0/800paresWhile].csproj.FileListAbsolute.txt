@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\obj\Debug\net10.0\800paresWhile].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\obj\Debug\net10.0\800paresWhile].AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\obj\Debug\net10.0\800paresWhile].AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\obj\Debug\net10.0\800paresWhile].csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\obj\Debug\net10.0\800paresWhile].sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\bin\Debug\net10.0\800paresWhile].exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\bin\Debug\net10.0\800paresWhile].deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\bin\Debug\net10.0\800paresWhile].runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\bin\Debug\net10.0\800paresWhile].dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\bin\Debug\net10.0\800paresWhile].pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\obj\Debug\net10.0\800paresWhile].dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\obj\Debug\net10.0\refint\800paresWhile].dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\obj\Debug\net10.0\800paresWhile].pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\obj\Debug\net10.0\800paresWhile].genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\800paresWhile]\800paresWhile]\obj\Debug\net10.0\ref\800paresWhile].dll

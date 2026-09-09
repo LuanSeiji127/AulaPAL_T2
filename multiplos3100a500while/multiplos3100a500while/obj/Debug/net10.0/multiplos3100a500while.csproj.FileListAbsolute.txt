@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\bin\Debug\net10.0\multiplos3100a500while.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\bin\Debug\net10.0\multiplos3100a500while.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\bin\Debug\net10.0\multiplos3100a500while.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\bin\Debug\net10.0\multiplos3100a500while.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\bin\Debug\net10.0\multiplos3100a500while.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\obj\Debug\net10.0\multiplos3100a500while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\obj\Debug\net10.0\multiplos3100a500while.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\obj\Debug\net10.0\multiplos3100a500while.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\obj\Debug\net10.0\multiplos3100a500while.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\obj\Debug\net10.0\multiplos3100a500while.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\obj\Debug\net10.0\multiplos3100a500while.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\obj\Debug\net10.0\refint\multiplos3100a500while.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\obj\Debug\net10.0\multiplos3100a500while.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\obj\Debug\net10.0\multiplos3100a500while.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\multiplos3100a500while\multiplos3100a500while\obj\Debug\net10.0\ref\multiplos3100a500while.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\200a450\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0070D6DD-1024-4DA6-E451-53A5213BE3C3}|200a450\\200a450.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal prof luiz\\200a450\\200a450\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0070D6DD-1024-4DA6-E451-53A5213BE3C3}|200a450\\200a450.csproj|solutionrelative:200a450\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\200a450\\200a450\\Program.cs",
+              "RelativeDocumentMoniker": "200a450\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\200a450\\200a450\\Program.cs",
+              "RelativeToolTip": "200a450\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:34:42.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
