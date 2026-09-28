@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("multiplos3100a500while")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e867265eebef011dad7ef69a10f7e5ccc06a2a85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d6f9068850938c0ac79f75ff6c43fbbb4749765")]
 [assembly: System.Reflection.AssemblyProductAttribute("multiplos3100a500while")]
 [assembly: System.Reflection.AssemblyTitleAttribute("multiplos3100a500while")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

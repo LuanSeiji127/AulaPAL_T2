@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\bin\Debug\net10.0\ExercíciosQUESTAO3.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\bin\Debug\net10.0\ExercíciosQUESTAO3.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\bin\Debug\net10.0\ExercíciosQUESTAO3.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\bin\Debug\net10.0\ExercíciosQUESTAO3.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\bin\Debug\net10.0\ExercíciosQUESTAO3.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\obj\Debug\net10.0\ExercíciosQUESTAO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\obj\Debug\net10.0\ExercíciosQUESTAO3.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\obj\Debug\net10.0\ExercíciosQUESTAO3.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\obj\Debug\net10.0\ExercíciosQUESTAO3.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\obj\Debug\net10.0\ExercíciosQUESTAO3.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\obj\Debug\net10.0\ExercíciosQUESTAO3.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\obj\Debug\net10.0\refint\ExercíciosQUESTAO3.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\obj\Debug\net10.0\ExercíciosQUESTAO3.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\obj\Debug\net10.0\ExercíciosQUESTAO3.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\ExercíciosQUESTAO3\ExercíciosQUESTAO3\obj\Debug\net10.0\ref\ExercíciosQUESTAO3.dll
