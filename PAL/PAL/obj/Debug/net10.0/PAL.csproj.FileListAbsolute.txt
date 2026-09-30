@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\bin\Debug\net10.0\PAL.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\bin\Debug\net10.0\PAL.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\bin\Debug\net10.0\PAL.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\bin\Debug\net10.0\PAL.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\bin\Debug\net10.0\PAL.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\obj\Debug\net10.0\PAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\obj\Debug\net10.0\PAL.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\obj\Debug\net10.0\PAL.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\obj\Debug\net10.0\PAL.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\obj\Debug\net10.0\PAL.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\obj\Debug\net10.0\PAL.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\obj\Debug\net10.0\refint\PAL.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\obj\Debug\net10.0\PAL.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\obj\Debug\net10.0\PAL.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\PAL\PAL\obj\Debug\net10.0\ref\PAL.dll

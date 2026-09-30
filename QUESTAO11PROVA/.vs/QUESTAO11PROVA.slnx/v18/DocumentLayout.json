@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\QUESTAO11PROVA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C79F8596-8C02-4240-8B52-18D9C0060CFB}|QUESTAO11PROVA\\QUESTAO11PROVA.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal prof luiz\\questao11prova\\questao11prova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79F8596-8C02-4240-8B52-18D9C0060CFB}|QUESTAO11PROVA\\QUESTAO11PROVA.csproj|solutionrelative:questao11prova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\QUESTAO11PROVA\\QUESTAO11PROVA\\Program.cs",
+              "RelativeDocumentMoniker": "QUESTAO11PROVA\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL PROF LUIZ\\QUESTAO11PROVA\\QUESTAO11PROVA\\Program.cs",
+              "RelativeToolTip": "QUESTAO11PROVA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T15:49:14.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

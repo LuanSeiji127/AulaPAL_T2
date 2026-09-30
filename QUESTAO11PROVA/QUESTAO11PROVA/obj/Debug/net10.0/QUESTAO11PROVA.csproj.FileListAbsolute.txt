@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\bin\Debug\net10.0\QUESTAO11PROVA.exe
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\bin\Debug\net10.0\QUESTAO11PROVA.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\bin\Debug\net10.0\QUESTAO11PROVA.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\bin\Debug\net10.0\QUESTAO11PROVA.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\bin\Debug\net10.0\QUESTAO11PROVA.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\obj\Debug\net10.0\QUESTAO11PROVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\obj\Debug\net10.0\QUESTAO11PROVA.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\obj\Debug\net10.0\QUESTAO11PROVA.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\obj\Debug\net10.0\QUESTAO11PROVA.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\obj\Debug\net10.0\QUESTAO11PROVA.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\obj\Debug\net10.0\QUESTAO11PROVA.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\obj\Debug\net10.0\refint\QUESTAO11PROVA.dll
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\obj\Debug\net10.0\QUESTAO11PROVA.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\obj\Debug\net10.0\QUESTAO11PROVA.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL PROF LUIZ\QUESTAO11PROVA\QUESTAO11PROVA\obj\Debug\net10.0\ref\QUESTAO11PROVA.dll
